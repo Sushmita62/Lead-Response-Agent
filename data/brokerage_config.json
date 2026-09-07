@@ -1,0 +1,19 @@
+{
+  "brokerage_id": "BR-001",
+  "legal_name": "Coral Gables Realty LLC",
+  "short_name": "Coral Gables Realty",
+  "assistant_name": "Mira",
+  "privacy_policy_url": "https://coralgablesrealty.com/privacy",
+  "business_hours_default": "8am-8pm local",
+  "channel_order": [
+    "whatsapp",
+    "sms",
+    "email"
+  ],
+  "mls_ids": [
+    "MRED",
+    "MIAMI"
+  ],
+  "agent_enabled_default": true,
+  "notes": "Some agents on this brokerage use Ylopo AI; check duplicate-bot suppression before onboarding. Internal only \u2014 do not share."
+}

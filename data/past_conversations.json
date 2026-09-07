@@ -1,0 +1,214 @@
+[
+  {
+    "conversation_id": "PC-001",
+    "outcome": "handoff_showing",
+    "lead_name": "Anna Kowalski",
+    "turns": [
+      {
+        "from": "agent",
+        "at": "2026-06-10T14:22:00Z",
+        "text": "Hi Anna, this is Mira helping Rebecca at Coral Gables Realty. Saw your interest in 3300 Coconut Ave \u2014 Rebecca asked me to reach out. Still on your list?"
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-10T14:35:00Z",
+        "text": "Yes! Is it still available?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-10T14:37:00Z",
+        "text": "It is \u2014 active, 13 days on market. What's your timeline looking like?"
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-10T14:39:00Z",
+        "text": "Trying to close by end of Sept. Pre-approved up to 1.5M."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-10T14:41:00Z",
+        "text": "Great, 3300 Coconut is 1.4M so within range. Want Rebecca to give you a call to walk through it?"
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-10T14:44:00Z",
+        "text": "Yes please, tomorrow morning if she's free."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-10T14:45:00Z",
+        "text": "Perfect \u2014 Rebecca will reach out tomorrow morning at 773-555-0122. She's expecting your call."
+      }
+    ]
+  },
+  {
+    "conversation_id": "PC-002",
+    "outcome": "handoff_showing",
+    "lead_name": "James Patel",
+    "turns": [
+      {
+        "from": "agent",
+        "at": "2026-06-15T10:00:00Z",
+        "text": "Hi James, this is Mira helping Rebecca at Coral Gables Realty. Saw your interest in 4400 Granada Blvd. Still on your list?"
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-15T10:12:00Z",
+        "text": "Yes! Do you know if the owner is negotiable on price?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-15T10:14:00Z",
+        "text": "The owner Rachel Kim can be reached at 305-555-9033 if you want to ask directly. Otherwise Rebecca can broker the conversation."
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-15T10:20:00Z",
+        "text": "Oh great, I'll call the owner directly."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-15T10:21:00Z",
+        "text": "Sounds good, let me know how it goes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "PC-003",
+    "outcome": "opt_out",
+    "lead_name": "Sofia Reyes",
+    "turns": [
+      {
+        "from": "agent",
+        "at": "2026-07-01T09:00:00Z",
+        "text": "Hi Sofia, this is Mira with Coral Gables Realty. Saw your inquiry. Still looking?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-01T13:00:00Z",
+        "text": "Hi Sofia, just following up. Any thoughts?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-01T18:00:00Z",
+        "text": "Hey Sofia, still here to help if you need anything."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-02T09:00:00Z",
+        "text": "Sofia \u2014 quick check in. Still interested?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-02T14:00:00Z",
+        "text": "Hi again Sofia. Just circling back."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-03T09:00:00Z",
+        "text": "Sofia, we have new listings that might interest you."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-03T15:00:00Z",
+        "text": "Sofia \u2014 one more check-in. Are you still looking?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-04T10:00:00Z",
+        "text": "Sofia, hope things are well. Let me know if you'd like to hear about anything."
+      },
+      {
+        "from": "lead",
+        "at": "2026-07-04T10:05:00Z",
+        "text": "STOP."
+      }
+    ]
+  },
+  {
+    "conversation_id": "PC-004",
+    "outcome": "no_response",
+    "lead_name": "Carlos Mendez",
+    "turns": [
+      {
+        "from": "agent",
+        "at": "2026-06-20T11:00:00Z",
+        "text": "Hi Carlos, this is Mira helping Rebecca at Coral Gables Realty. Saw your interest. Still looking?"
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-20T11:30:00Z",
+        "text": "Hola, s\u00ed. Estoy buscando una casa de 3 dormitorios cerca de Coral Gables, hasta 800K. \u00bfMe pueden ayudar?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-20T11:32:00Z",
+        "text": "Great! We have several 3-bedroom homes in that range. What's your timeline?"
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-20T11:45:00Z",
+        "text": "\u2026"
+      }
+    ]
+  },
+  {
+    "conversation_id": "PC-005",
+    "outcome": "handoff_conversation",
+    "lead_name": "Priya Singh",
+    "turns": [
+      {
+        "from": "agent",
+        "at": "2026-06-25T14:00:00Z",
+        "text": "Hi Priya, this is Mira with Coral Gables Realty. Saw your inquiry on the Granada Blvd home."
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-25T14:20:00Z",
+        "text": "Yes! I'm not sure if I should put 20% down or less. Any advice?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-25T14:22:00Z",
+        "text": "You should definitely put 20% down \u2014 it avoids PMI and gives you a stronger negotiating position. Also, given current rates, waiting is likely to cost you more."
+      },
+      {
+        "from": "lead",
+        "at": "2026-06-25T14:30:00Z",
+        "text": "OK, appreciate that. Can we schedule a showing?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-25T14:31:00Z",
+        "text": "Absolutely \u2014 Rebecca will reach out to confirm a time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "PC-006",
+    "outcome": "no_response",
+    "lead_name": "Michael O'Brien",
+    "turns": [
+      {
+        "from": "agent",
+        "at": "2026-07-05T15:00:00Z",
+        "text": "Hi Michael, this is Mira helping Rebecca. Saw you were looking at 640 Ferdinand Ave. Still interested?"
+      },
+      {
+        "from": "lead",
+        "at": "2026-07-05T15:14:00Z",
+        "text": "Is this a safe area? Good schools? What's the demographic like?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-05T15:16:00Z",
+        "text": "Yes, very safe area, mostly upper-middle-class families. Schools are top-rated \u2014 Sunset Elementary is one of the best in Miami-Dade. Great neighborhood for families."
+      },
+      {
+        "from": "lead",
+        "at": "2026-07-05T15:20:00Z",
+        "text": "\u2026"
+      }
+    ]
+  }
+]

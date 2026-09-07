@@ -1,0 +1,40 @@
+{
+  "as_of_date": "2026-07-31",
+  "areas": {
+    "Coral Gables": {
+      "median_price": 950000,
+      "active_listings": 45,
+      "pending": 12,
+      "yoy_change_pct": 3.2,
+      "median_dom": 42
+    },
+    "Coconut Grove": {
+      "median_price": 875000,
+      "active_listings": 32,
+      "pending": 8,
+      "yoy_change_pct": 2.1,
+      "median_dom": 51
+    },
+    "Pinecrest": {
+      "median_price": 1450000,
+      "active_listings": 22,
+      "pending": 5,
+      "yoy_change_pct": "N/A",
+      "median_dom": 38
+    },
+    "Homestead": {
+      "median_price": 340000,
+      "active_listings": 78,
+      "pending": 22,
+      "yoy_change_pct": 4.8,
+      "median_dom": 29
+    },
+    "Miami Beach": {
+      "median_price": 1650000,
+      "active_listings": 55,
+      "pending": 18,
+      "yoy_change_pct": 1.7,
+      "median_dom": 66
+    }
+  }
+}

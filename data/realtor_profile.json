@@ -1,0 +1,52 @@
+{
+  "realtor_id": "R-01",
+  "name": "Rebecca Alvarez",
+  "brokerage_id": "BR-001",
+  "license_state": "FL",
+  "license_number": "FL-3345612",
+  "years_experience": 8,
+  "specialties": [
+    "luxury single-family",
+    "waterfront"
+  ],
+  "service_areas": [
+    "Coral Gables",
+    "Coconut Grove",
+    "Pinecrest",
+    "Austin"
+  ],
+  "working_hours": "9-5",
+  "phone": "+1-305-555-0142",
+  "email": "rebecca@coralgablesrealty.com",
+  "tone_preferences": "professional, warm, concise; no emoji",
+  "recent_transactions": [
+    {
+      "date": "2026-06-15",
+      "area": "Coral Gables",
+      "type": "condo",
+      "price": 425000
+    },
+    {
+      "date": "2026-05-22",
+      "area": "Homestead",
+      "type": "starter single-family",
+      "price": 285000
+    },
+    {
+      "date": "2026-04-30",
+      "area": "Coral Gables",
+      "type": "condo",
+      "price": 380000
+    },
+    {
+      "date": "2027-01-05",
+      "area": "Pinecrest",
+      "type": "single-family",
+      "price": 495000
+    }
+  ],
+  "languages_spoken": [
+    "English",
+    "Spanish"
+  ]
+}
