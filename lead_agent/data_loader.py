@@ -168,6 +168,14 @@ def load_all():
     if "Austin" in realtor.get("service_areas", []):
         realtor_flags.append("service_area_outlier:Austin")
  
+    realtor_hours = str(realtor.get("working_hours", "")).strip()
+    brokerage_hours = str(brokerage.get("business_hours_default", "")).strip()
+    if realtor_hours and brokerage_hours and realtor_hours.lower() not in brokerage_hours.lower():
+        realtor_flags.append(
+            f"business_hours_conflict: realtor_profile says '{realtor_hours}', "
+            f"brokerage_config says '{brokerage_hours}'"
+        )
+ 
     listing_by_id = {
         listing["listing_id"]: listing
         for listing in listings
